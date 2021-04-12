@@ -9,3 +9,9 @@ The project is made using Java, Swing, Socket Programming and Multithreading.
 3.Now run ChatClient.java.<br>
 4.Enter your IP Address and unique name as prompted.<br>
 5.Send and receive messages from various clients.<br>
+
+Below is the example of chat history of three persons Ironman,Captain America and Thor connected to same server
+as clients thus establishing a Server Client network and using the Chat Application easily.
+
+### Example:
+[chatlog](https://user-images.githubusercontent.com/56619771/114376304-205ef280-9ba3-11eb-83c7-351124f7b132.png)
